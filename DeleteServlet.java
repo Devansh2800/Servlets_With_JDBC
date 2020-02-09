@@ -1,3 +1,6 @@
+// This program will consist of the deletion of the entries from the database schema where eno (primary key) is taken into as a criteria 
+// for the deletion of a particular row.
+
 import javax.servlet.*;
 import java.io.*;
 import javax.servlet.http.*;
