@@ -1,3 +1,6 @@
+// This program will demonstrate the adding the record to the database table which have predefined columns as (eno, sn, sal, dn) in the database.
+
+
 import javax.servlet.*;
 import java.io.*;
 import javax.servlet.http.*;
