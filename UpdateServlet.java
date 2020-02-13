@@ -1,3 +1,5 @@
+//This program will show you how to update the values stored in the database (HeidiSQL) with the help of tomcat server.
+
 import javax.servlet.*;
 import java.io.*;
 import javax.servlet.http.*;
