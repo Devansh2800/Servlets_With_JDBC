@@ -1,3 +1,6 @@
+// This servlet program will display the select query through servlet+jdbc connectivity (through HeidiSQL).
+
+
 import javax.servlet.*;
 import java.io.*;
 import javax.servlet.http.*;
